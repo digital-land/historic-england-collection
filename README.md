@@ -1,4 +1,4 @@
-# historic-england collection
+# historic-england collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/historic-england/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/historic-england-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/historic-england-collection/actions/workflows/run.yml)
